@@ -32,7 +32,7 @@ DOCKER_COMPOSE_FILE="${BOT_INSTALL_PATH}/docker-compose.yml"
 ENV_FILE="${BOT_INSTALL_PATH}/.env"
 
 # --- GitHub ---
-GITHUB_REPO="jatixs/tgbotvpscp"
+GITHUB_REPO="botcott/tgbotvpscp"
 GITHUB_REPO_URL="https://github.com/${GITHUB_REPO}.git"
 
 # --- Цвета ---
