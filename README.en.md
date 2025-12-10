@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jatixs/tgbotvpscp/releases/latest"><img src="https://img.shields.io/badge/version-v1.13.2-blue?style=flat-square" alt="Version 1.13.2"/></a>
+  <a href="https://github.com/botcott/tgbotvpscp/releases/latest"><img src="https://img.shields.io/badge/version-v1.13.2-blue?style=flat-square" alt="Version 1.13.2"/></a>
   <a href="CHANGELOG.en.md"><img src="https://img.shields.io/badge/build-54-purple?style=flat-square" alt="Build 54"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10%2B-green?style=flat-square" alt="Python 3.10+"/></a>
   <a href="https://choosealicense.com/licenses/gpl-3.0/"><img src="https://img.shields.io/badge/license-GPL--3.0-lightgrey?style=flat-square" alt="License GPL-3.0"/></a>
   <a href="https://github.com/aiogram/aiogram"><img src="https://img.shields.io/badge/aiogram-3.x-orange?style=flat-square" alt="Aiogram 3.x"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-required-blueviolet?style=flat-square" alt="Docker"/></a>
   <a href="https://releases.ubuntu.com/focal/"><img src="https://img.shields.io/badge/platform-Ubuntu%2020.04%2B-important?style=flat-square" alt="Platform Ubuntu 20.04+"/></a>
-  <a href="https://github.com/jatixs/tgbotvpscp/actions/workflows/security.yml/"><img src="https://github.com/jatixs/tgbotvpscp/actions/workflows/security.yml/badge.svg" alt="Security Scan"/></a>
+  <a href="https://github.com/botcott/tgbotvpscp/actions/workflows/security.yml/"><img src="https://github.com/botcott/tgbotvpscp/actions/workflows/security.yml/badge.svg" alt="Security Scan"/></a>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Requires **Ubuntu 20.04+** and `sudo` access.
 Run on your main server:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/jatixs/tgbotvpscp/main/deploy_en.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/botcott/tgbotvpscp/main/deploy_en.sh)
 ````
 
 1.  Select install mode (Recommended: **Docker - Secure**).
@@ -108,7 +108,7 @@ To connect a remote server:
 2.  **On Remote Server:**
       * Run the installer:
         ```bash
-        bash <(wget -qO- https://raw.githubusercontent.com/jatixs/tgbotvpscp/main/deploy_en.sh)
+        bash <(wget -qO- https://raw.githubusercontent.com/botcott/tgbotvpscp/main/deploy_en.sh)
         ```
       * Select **8) Install NODE (Client)**.
       * Enter:
