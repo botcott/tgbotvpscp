@@ -32,7 +32,8 @@ async def send_support_message(bot: Bot, user_id: int, lang: str):
             chat_id=user_id,
             text=text,
             reply_markup=keyboard,
-            parse_mode="HTML"
+            parse_mode="HTML",
+            disable_web_page_preview=True
         )
     except Exception as e:
         logging.error(
