@@ -324,7 +324,7 @@ STRINGS = {
         "unit_hour_short": "ч",
         "unit_minute_short": "м",
         "unit_second_short": "с",
-        "start_support_message": "Это open-source проект, автор проекта <a href=\"https://t.me/faridshykhaliev\">@faridshykhaliev</a>. При желании вы можете поддержать автора. Это мотивирует автора продолжать развивать проект.",
+        "start_support_message": "Это open-source проект, автор проекта <a href=\"https://t.me/faridshykhaliev\">@faridshykhaliev</a>. При желании вы можете поддержать автора. Это мотивирует автора продолжать развивать проект.\n\nFork by <a href=\"https://t.me/thisnicknamewastaken\">@thisnicknamewastaken</a>",
         "start_support_button": " ❤️ Поддержать разработчика",
 
         # --- WEB INTERFACE ---
@@ -776,7 +776,7 @@ STRINGS = {
         "unit_hour_short": "h",
         "unit_minute_short": "m",
         "unit_second_short": "s",
-        "start_support_message": "This is an open-source project, the author is <a href=\"https://t.me/faridshykhaliev\">@faridshykhaliev</a>. If you wish, you can support the author. This motivates the author to continue developing the project.",
+        "start_support_message": "This is an open-source project, the author is <a href=\"https://t.me/faridshykhaliev\">@faridshykhaliev</a>. If you wish, you can support the author. This motivates the author to continue developing the project.\n\nFork by <a href=\"https://t.me/thisnicknamewastaken\">@thisnicknamewastaken</a>",
         "start_support_button": " ❤️ Support the developer",
 
         # --- WEB INTERFACE ---
