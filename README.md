@@ -2,7 +2,7 @@
   <a href="README.en.md">English Version</a> | Русская Версия
 </p>
 
-<!-- (test commit) -->
+<!-- (test commit x2) -->
 
 <h1 align="center">🤖 VPS Manager Telegram Bot</h1>
 
