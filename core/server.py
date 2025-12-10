@@ -381,7 +381,7 @@ async def handle_node_add(request):
         lang = get_user_lang(user['id'])
         script = "deploy_en.sh" if lang == "en" else "deploy.sh"
         
-        cmd = f"bash <(wget -qO- https://raw.githubusercontent.com/jatixs/tgbotvpscp/main/{script}) --agent={proto}://{host} --token={token}"
+        cmd = f"bash <(wget -qO- https://raw.githubusercontent.com/botcott/tgbotvpscp/main/{script}) --agent={proto}://{host} --token={token}"
         return web.json_response({"status": "ok", "token": token, "command": cmd})
     except Exception as e:
         return web.json_response({"error": str(e)}, status=500)
