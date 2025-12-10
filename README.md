@@ -2,6 +2,8 @@
   <a href="README.en.md">English Version</a> | Русская Версия
 </p>
 
+<!-- (test commit) -->
+
 <h1 align="center">🤖 VPS Manager Telegram Bot</h1>
 
 <p align="center">
